@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+
+    <string name="firstname">FirstName</string>
+    <string name="lastname">LastName</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="retype">Retype Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="signup">Sign up</string>
+    <string name="exit">Exit</string>
+    <string name="txt">Already have an Account? Login now</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="posts">3431</string>
+    <string name="followers">6530</string>
+    <string name="following">217</string>
+    <string name="post">posts</string>
+    <string name="follower">followers</string>
+    <string name="followings">following</string>
+    <string name="edit">Edit Profile</string>
+    <string name="name">Muhammad Hasan Zahid</string>
+    <string name="link"><a href="https://www.google.com">MySite !!</a></string>
+    <string name="bio">I am a Computer Scientist</string>
+    <string name="app">Facebook</string>
+    <string name="rate">4.9</string>
+    <string name="age">4+</string>
+    <string name="ratings">8 ratings</string>
+    <string name="ag">Age</string>
+    <string name="inc">Also Included In</string>
+    <string name="desc">Affiliate Linking Pack</string>
+    <string name="productivity">Productivity</string>
+    <string name="price">$7.99</string>
+    <string name="preview">Preview</string>
+    <string name="search">Search</string>
+    <string name="update">Updates</string>
+    <string name="apps">Apps</string>
+    <string name="game">Games</string>
+    <string name="today">Today</string>
+    <string name="city">Chelsea Fan Club</string>
+    <string name="FullName">FullName</string>
+    <string name="country">Country</string>
+    <string name="register">Register</string>
+    <string name="rating">Rating</string>
+    <string name="layout">This is a Frame Layout !!</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
